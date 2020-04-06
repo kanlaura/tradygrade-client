@@ -1,4 +1,4 @@
-This project was created in collaboration with henrikasvand, kanlaura, oteklund and pekkaharkonen.
+### This project was created in collaboration with henrikasvand, kanlaura, oteklund and pekkaharkonen.
 
 In the project directory, you can run:
 
